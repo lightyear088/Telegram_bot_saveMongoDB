@@ -1,0 +1,80 @@
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Telegram.Bot.Examples.WebHook.exe
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Files\tux.png
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Telegram.Bot.Examples.WebHook.deps.json
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Telegram.Bot.Examples.WebHook.runtimeconfig.json
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Telegram.Bot.Examples.WebHook.dll
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Telegram.Bot.Examples.WebHook.pdb
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.AssemblyInfo.cs
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\staticwebassets\msbuild.Telegram.Bot.Examples.WebHook.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\staticwebassets\msbuild.build.Telegram.Bot.Examples.WebHook.props
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Telegram.Bot.Examples.WebHook.props
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Telegram.Bot.Examples.WebHook.props
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\scopedcss\bundle\Telegram.Bot.Examples.WebHook.styles.css
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.csproj.CopyComplete
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.dll
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\refint\Telegram.Bot.Examples.WebHook.dll
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.pdb
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.genruntimeconfig.cache
+C:\Users\User\Desktop\проект bot\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\ref\Telegram.Bot.Examples.WebHook.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Telegram.Bot.Examples.WebHook.exe
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Files\tux.png
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Telegram.Bot.Examples.WebHook.deps.json
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Telegram.Bot.Examples.WebHook.runtimeconfig.json
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Telegram.Bot.Examples.WebHook.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Telegram.Bot.Examples.WebHook.pdb
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.AssemblyInfo.cs
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\staticwebassets\msbuild.Telegram.Bot.Examples.WebHook.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\staticwebassets\msbuild.build.Telegram.Bot.Examples.WebHook.props
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Telegram.Bot.Examples.WebHook.props
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Telegram.Bot.Examples.WebHook.props
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\scopedcss\bundle\Telegram.Bot.Examples.WebHook.styles.css
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.csproj.CopyComplete
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\refint\Telegram.Bot.Examples.WebHook.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.pdb
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\Telegram.Bot.Examples.WebHook.genruntimeconfig.cache
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\obj\Debug\net6.0\ref\Telegram.Bot.Examples.WebHook.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\DnsClient.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Snappier.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\User\Desktop\Telegram.Bot.Examples.WebHook\bin\Debug\net6.0\Telegram.Bot.Examples.WebHook.staticwebassets.runtime.json

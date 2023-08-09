@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Telegram.Bot.Examples.WebHook.props" />
+</Project>

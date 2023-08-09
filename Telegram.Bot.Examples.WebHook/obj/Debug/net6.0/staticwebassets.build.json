@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "NZEdOOfNkeX5OurAOwzlaoX80S6o8FOjyftG/NSOIL4=",
+  "Source": "Telegram.Bot.Examples.WebHook",
+  "BasePath": "_content/Telegram.Bot.Examples.WebHook",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Telegram.Bot.Examples.WebHook\\wwwroot",
+      "Source": "Telegram.Bot.Examples.WebHook",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Telegram.Bot.Examples.WebHook\\wwwroot\\",
+      "BasePath": "_content/Telegram.Bot.Examples.WebHook",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
